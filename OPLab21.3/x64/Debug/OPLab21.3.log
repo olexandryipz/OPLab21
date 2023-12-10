@@ -1,0 +1,3 @@
+﻿  OPLab21.3.cpp
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab21\OPLab21.3\OPLab21.3.cpp(33,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  OPLab21.3.vcxproj -> C:\Users\Oleksandr\Desktop\лабивізуал\OPLab21\x64\Debug\OPLab21.3.exe
